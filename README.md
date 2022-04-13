@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @anj0la!
-- 👀 I’m interested in front-end development, and full-stack development.
-- 🌱 I’m currently learning to make applications with Android Studio, and am hoping to start learning C, along with C++ at some point. I'm hoping to create iPhone apps too in the near future.
-- 💞️ I’m collaborating on an Android app alongside some of my classmates.
+- 👀 I’m interested in front-end development, and game development.
+- 🌱 I’m currently able to create Android applications and have experience programming in the following languages: 
+  -  Java & JavaFX
+  -  Python
+  -  C#
+- 💞️ My next programming goal is to learn C, C++ and to be able to create web applications.
+- ❗I hope to create a full game by the end of my undergraduae program.
 - 📫 You can reach me either here, or on discord (anjola#1111).
 
 <!---
