@@ -4,8 +4,8 @@ Hello, my name is Anjola! I'm interested both in front-end developement, and gam
 
 I'm currently learning these programming languages/frameworks:
   - Streamlit
-  - C#
   - C/C++
+  - C#
 
 You can reach me by:
   - Email: anjola.aina@gmail.com
