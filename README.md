@@ -1,8 +1,8 @@
-Hello, my name is Anjola! I'm interested both in front-end developement, and game development. I currently am able to create Android and desktop applications, and have experience programming in the following langauges/frameworks:
+Hello, my name is Anjola! I'm interested both in front-end developement, and game development. I currently am able to create Android and desktop applications, and have quite a bit of experience programming in the following langauges/frameworks:
   - Java & JavaFX
   - Python
 
-I'm currently learning these programming languages/frameworks:
+I also have some experience in the following langauges/frameworks:
   - Streamlit
   - C/C++
   - C#
