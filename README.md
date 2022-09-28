@@ -3,8 +3,6 @@ Hello, my name is Anjola! I'm a third year student at the University of Alberta!
   - Python
   
 The following programming languages below are languages that I have learned over the course of 2022, and am continually developing my skills in them:
-
-I also have some experience in the following langauges/frameworks:
   - C/C++
   - C#
 
