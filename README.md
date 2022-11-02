@@ -1,4 +1,8 @@
-Hello, my name is Anjola! I'm a third year student at the University of Alberta! I enjoy doing UX/UI development alongisde game development, but am also becoming more interested in back-end development!interested both in front-end developement. I have over 2 years of experience programming in the following langauges:
+Hello, my name is Anjola! I'm a third year student at the University of Alberta! I enjoy doing UX/UI development alongside creating fun games, but am also becoming more interested in back-end development!
+
+I have two projects that I am continually working on at the moment, Candy Invaders and a Property Management Application. You can check out those repositories under the "Pinned" section to see the progress I've made on those two repositories!
+
+I have over 2 years of experience programming in the following langauges:
   - Java
   - Python
   
