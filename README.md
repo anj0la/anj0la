@@ -9,7 +9,9 @@ I have over 2 years of experience programming in the following langauges:
 The following programming languages below are languages that I have learned over the course of 2022, and am continually developing my skills in them:
   - C/C++
   - C#
+  - JavaScript
   - Scheme
+  - Prolog
 
 You can reach me by:
   - Email: anjola.aina@gmail.com
