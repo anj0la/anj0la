@@ -2,6 +2,8 @@ Hello, my name is Anjola! I'm a third year student at the University of Alberta!
 
 I have two projects that I am continually working on at the moment, Candy Invaders and a Property Management Application. You can check out those repositories under the "Pinned" section to see the progress I've made on those two repositories!
 
+I'm also working on an original game, and will make it available to view in the upcoming weeks, called Painting Frenzy.
+
 I have over 2 years of experience programming in the following langauges:
   - Java
   - Python
