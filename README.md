@@ -6,11 +6,11 @@ I've also created a simple Property Management Application that I hope to revamp
 
 Finally, I'm working on an original game to be released on multiple platforms (i.e., macOS, Windows, Linux, iOS & Android). The repository will be up in the upcoming weeks, and I hope to finish it by the time I finish school (April 2023).
 
-I have over 2 years of experience programming in the following langauges:
+I have over 2.5 years of experience programming in the following langauges:
   - Java
   - Python
 
-I have a little over 6 months of experience programming in the following languages:
+I have a little over 9 months of experience programming in the following languages:
   - C++
   - C
 
