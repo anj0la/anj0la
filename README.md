@@ -4,7 +4,7 @@ I have two games that I have completed and doing some small updates on them - Ca
 
 I've also created a simple Property Management Application that I hope to revamp over this summer to support mobile integration. You can check out what I've currently done so far under the "Pinned" section as well.
 
-Finally, I'm working on an original game to be released on multiple platforms (i.e., macOS, Windows, Linux, iOS & Android). The repository will be up in the upcoming weeks, and I hope to finish it by the time I finish school (April 2023).
+Finally, I'm working on an original game to be released on multiple platforms (i.e., macOS, Windows, Linux, iOS & Android). The repository will be up in the upcoming weeks, and I hope to finish it fully by the end of Summer 2023.
 
 I have over 2.5 years of experience programming in the following langauges:
   - Java
