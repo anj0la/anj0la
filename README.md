@@ -4,11 +4,11 @@ I just recently completed creating a simple multt-threaded snake game for my Par
 
 Finally, I'm working on an original game to be released on multiple platforms (i.e., macOS, Windows, Linux, iOS & Android). The repository will be up in the upcoming weeks, and I hope to finish it fully by the end of Summer 2023.
 
-I have over 2.5 years of experience programming in the following langauges:
+I have over 3 years of experience programming in the following langauges:
   - Java
   - Python
 
-I have a little over 9 months of experience programming in the following languages:
+I have over a year's worth of experience programming in the following languages:
   - C++
   - C
 
