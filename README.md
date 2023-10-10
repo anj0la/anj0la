@@ -13,6 +13,7 @@ I have over 1 years' worth of experience programming in the following languages:
   - C
 
 I have some experience in the following languages (including markup languages):
+  - Lua
   - JavaScript
   - PHP
   - HTML
