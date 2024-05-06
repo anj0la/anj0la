@@ -1,21 +1,22 @@
-Hello, my name is Anjola! I'm a fourth year student at the University of Alberta! I enjoy doing UX/UI development alongside creating fun games and mobile applications!
-
-I just recently completed creating a simple multi-threaded snake game for my Parallel and Distributed Computing course as my course project! It was created in around a week, and made use of the Allegro 4.4.2 game library. I have two games that I have completed and doing some small updates on them - Candy Invaders and Ocean Cleaning Frenzy! You can check out those repositories under the "Pinned" section. I've also created a simple Property Management Application.
+My me is Anjola, and I'm a recent graduate at the University of Alberta. I enjoy creating UX/UI, mobile applications, and games. 
 
 I have over 3 years of experience programming in the following langauges:
   - Java
   - Python
 
-I have over 1 years' worth of experience programming in the following languages:
+I have over 2 years worth of experience programming in the following languages:
   - C++
   - C
+  - 
+
+I have over a year's worth of experience programming in the following languages:
+  - Lua
+  - HTML / Javascript
+
 
 I have some experience in the following languages (including markup languages):
-  - Lua
   - Swift
-  - JavaScript
   - PHP
-  - HTML
   - XML
   - Scheme
   - Prolog
