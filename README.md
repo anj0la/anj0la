@@ -14,6 +14,7 @@
 - 🔭 I’m currently working on **Bakery Frenzy**
 - 🌱 I’m currently learning **2D game development on Godot**
 - 🧠 I enjoy developing AI models for sentiment analysis and fun 2D games!
+- 📫 How to reach me: **anjola.aina@gmail.com**
 
 ###
 
@@ -95,9 +96,5 @@
   <a href="https://www.linkedin.com/in/anjola-aina/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/anjola.aina@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
