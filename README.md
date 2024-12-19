@@ -11,9 +11,9 @@
 ###
 
 - 🌍 I'm based in **Canada**
-- 🔭 I’m currently working on **Baking Frenzy**
-- 🌱 I’m currently learning **2D game development on Godot**
-- 🧠 I enjoy developing **AI models for sentiment analysis** and fun **2D games!**
+- 🔭 I’m currently working on **multiple projects**
+- 🌱 I’m currently learning **3D game development on Godot**
+- 🧠 I enjoy developing **AI models for sentiment analysis** and fun **2D/3D games!**
 - 📫 How to reach me: **anjola.aina@gmail.com**
 
 ###
