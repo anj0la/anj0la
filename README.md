@@ -12,7 +12,7 @@
 
 - 🌍 I'm based in **Canada**
 - 🔭 I’m currently working on **multiple projects**
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ with SDL3**
 - 🧠 I enjoy developing **AI models for sentiment analysis** and fun **2D/3D games!**
 - 📫 How to reach me: **anjola.aina@gmail.com**
 
