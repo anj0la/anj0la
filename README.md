@@ -31,10 +31,10 @@ skills/
 ```text
 anjola@github:~$ ls projects/
 
-Aera/          programming language
-Penguin/       C++ game framework
-Anko/          GitHub developer tool
-MARSA/         sentiment analysis
+aera-lang/aera/          programming language
+penguin_framework/       C++ game framework
+anko/                    GitHub developer tool
+marsa/                   sentiment analysis
 ```
 
 ### `contact`
